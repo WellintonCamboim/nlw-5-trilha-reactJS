@@ -1,3 +1,7 @@
-1-npx create-next-app podcastrnext
+1- npx create-next-app podcastrnext
 
-2- git config --global user.email wellinton@tentaculo.digital
+2- yarn add typescript @types/react @types/node -D
+
+3 - yarn add sass
+
+4 - yarn add date-fns
