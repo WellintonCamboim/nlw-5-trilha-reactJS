@@ -5,3 +5,6 @@
 3 - yarn add sass
 
 4 - yarn add date-fns
+
+5 - https://github.com/typicode/json-server
+yarn add json-server -D
