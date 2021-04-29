@@ -8,3 +8,5 @@
 
 5 - https://github.com/typicode/json-server
 yarn add json-server -D
+
+6 - yarn add axios
